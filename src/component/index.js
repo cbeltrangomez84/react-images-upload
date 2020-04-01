@@ -348,7 +348,7 @@ ReactImageUploadComponent.defaultProps = {
   imgExtension: ['.jpg', '.jpeg', '.gif', '.png'],
   maxFileSize: 5242880,
   acceptedImageDimension: {},
-  fileDimensionError: "image dimensions are different than expected",
+  fileDimensionError: " image dimensions are different than expected",
   fileSizeError: " file size is too big",
   fileTypeError: " is not a supported file extension",
   errorClass: "",
